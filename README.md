@@ -77,4 +77,4 @@ Projeto_4/
 
 ## 📜 Créditos
 
-Desenvolvido por **[Seu Nome]**, inspirado nos desafios e conceitos da **Rocketseat**.
+Desenvolvido por **Natanael Aquino**, inspirado nos desafios e conceitos da **Rocketseat**.
