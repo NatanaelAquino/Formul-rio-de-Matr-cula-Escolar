@@ -7,7 +7,7 @@ button{
 
   cursor: pointer;
 
-  &.btn-primarty{
+  &.btn-primary{
     color: white;
     background-color: #E43A12;
 
